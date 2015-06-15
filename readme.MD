@@ -39,6 +39,12 @@ An article taking a different look at programming interfaces, discussing the usa
 -- Author: **Weston Beecroft**
 # Demos
 
+## [Conspire](http://blog.duangle.com/2015/01/conspire-programming-environment-for.html)
+
+Conspire is an editor developed for an incredibly ambitious game. Conspire is deceivingly simple and best defines the concept of "graphical macros". Similar in ideology and usability as Moonchild. Conspire, unlike most of the other editors shown here is based on a lisp,
+
+![Conspire](images/conspire.png)
+
 ## [Moonchild](https://github.com/cdglabs/moonchild.git)
 
 Moonchild is an experimental editor which is able to replace parts of your source code with alternative graphical representations. A sliding number widget, rendering markdown in your source code, write-time unit testing and more!
