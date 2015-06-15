@@ -2,26 +2,31 @@ This page is a collection of links of articles, demos, experiments and more all 
 
 This list was compiled by Martijn Brekelmans, a Dutch computer engineering student who's getting more and more inspired by "what's out there". I've compiled this list to be as accurate and free of negative judgement as possible.
 
-# Index of TLA's (three letter abbreviations)
+# Index of TLA's (Three Letter Abbreviations)
 
 * **dsl** - a domain specific language.
+
 > A domain-specific language is a computer language specialized to a particular application domain. This is in contrast to a general-purpose language, which is broadly applicable across domains, and lacks specialized features for a particular domain.
+
 * **ast** - an abstract syntax tree. The underlying representation of any programming language.
+
 > an abstract syntax tree, or just syntax tree, is a tree representation of the abstract syntactic structure of source code written in a programming language.
+
+###### Quotes from Wikipedia
 
 # Articles
 
 ## [Typography in code](http://research.microsoft.com/en-us/projects/liveprogramming/typography.aspx)
 An article by Microsoft's research department, showcasing an editor made
 specifically to greatly enhance the readability of programs
-using typography.
+by means of typography.
 
 ![typography](images/typography.png)
 
 -- Author: **Sean McDirmid**, Microsoft Research
 
 ## [Domain specific languages](http://spin.atomicobject.com/2015/05/19/domain-specific-vs-notation/)
-An article about the difference between traditional domain specific languages and notation. It argues that traditional domain specific languages aren't actual dsl's. Real examples of dsl's are math notation, music notation and chess notation.
+An article about the difference between traditional domain specific languages and notation. It argues that traditional domain specific languages aren't actual dsl's. Examples of real domain specific languages are math, music and chess notation.
 
 > emulating the English language—complete with nouns, verbs, and prepositions—is simply the language of the domain, not a truly domain-specific language. A truly domain-specific language is a new language designed for use in a particular domain, with a new vocabulary and grammar suited to the specific problem.
 
@@ -41,9 +46,11 @@ An article taking a different look at programming interfaces, discussing the usa
 
 ## [Conspire](http://blog.duangle.com/2015/01/conspire-programming-environment-for.html)
 
-Conspire is an editor developed for an incredibly ambitious game. Conspire is deceivingly simple and best defines the concept of "graphical macros". Similar in ideology and usability as Moonchild. Conspire, unlike most of the other editors shown here is based on a lisp,
+Conspire is an editor developed for an incredibly ambitious game by duangle game studios. Conspire is deceivingly simple and best defines the concept of "graphical macros". Similar in ideology and usability as Moonchild. Conspire, unlike most of the other editors shown here is based on a lisp,
 
 ![Conspire](images/conspire.png)
+
+-- Author: [Leonard Ritter, Duangle](http://blog.duangle.com/)
 
 ## [Moonchild](https://github.com/cdglabs/moonchild.git)
 
@@ -61,7 +68,13 @@ Moonchild is an experimental editor which is able to replace parts of your sourc
 
 Vogo adds a direct manipulation user interface to Turtle Graphics. This takes on an entirely new approach to programming. This is programming without even touching text.
 
--- Author: [Matthias Graf]
+-- Author: [Matthias Graf](http://mgrf.de)
+
+## [Recursive Drawing](http://recursivedrawing.com/)
+
+>  Recursive Drawing is an exploration of user interface ideas towards the development of a spatially-oriented programming environment.
+
+-- Author: [Toby Schachman](http://tobyschachman.com)
 
 ## [Object.remote](https://github.com/azeirah/Object.remote.git)
 
@@ -71,11 +84,13 @@ An example interface built on top of Object.remote is included inside the reposi
 
 This repository is my own. If you've got any feedback, ideas or want to use it yourself, you can contact me at email@martijnbrekelmans.com
 
--- Author: Martijn Brekelmans (author of this collection)
+-- Author: Martijn Brekelmans
 
 ## [Shadershop](http://tobyschachman.com/Shadershop/)
 
-Shadershop is an editor for directly manipulating mathematical function to aid in the designing of shaders. Shadershop is open source, and you can [try it right now inside your browser](http://www.cdglabs.org/Shadershop/)
+Shadershop is an editor for directly manipulating mathematical functions to aid in the process of designing of shaders. Shadershop is open source, and you can [try it right now inside your browser](http://www.cdglabs.org/Shadershop/)
+
+![Shadershop](images/shadershop.png)
 
 -- Author: [Toby Schachman](http://tobyschachman.com)
 
