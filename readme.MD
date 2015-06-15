@@ -164,3 +164,23 @@ Essays:
 
 * [Up and down the ladder of abstraction](http://worrydream.com/LadderOfAbstraction/)
 * [Learnable programming](http://worrydream.com/#!/LearnableProgramming)
+
+## Older related projects
+
+It's paradoxical and ever so ironic how these old projects are a great source of inspiration for editors and interfaces right now. These projects are better implementations of software used today, only this software is at least twice as old as I am.
+
+#### [MIT's Genesys, 1970](https://www.youtube.com/watch?v=GYIPKLxoTcQ).
+
+#### [Sketchpad](https://www.youtube.com/watch?v=6orsmFndx_o)
+
+[Alan Kay's commentary on sketchpad](https://www.youtube.com/watch?v=495nCzxM9PI)
+
+Sketchpad was developed by Ivan Sutherland.
+
+#### [Programming with on-line graphics](https://www.youtube.com/watch?v=NLyIYmPfCps)
+
+By Bert Sutherland, Ivan's brother.
+
+#### Smalltalk
+
+Smalltalk is the programming language brought to you by Xerox Parc. I would love to include more about Smalltalk in this compilation, unfortunately, I know barely anything about it.
