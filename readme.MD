@@ -82,7 +82,7 @@ Vogo adds a direct manipulation user interface to Turtle Graphics. This takes on
 
 Object.remote is a JavaScript framework that synchronizes any objects between multiple web pages. This can be used to build custom controls and user interfaces around arbitrary objects on any device.
 
-An example interface built on top of Object.remote is included inside the repository. This interface allows you to view and edit objects on another web page in real time.
+An example interface built on top of Object.remote is included inside the repository. This interface allows you to view and edit objects on another web page at run-time.
 
 This repository is my own. If you've got any feedback, ideas or want to use it yourself, you can contact me at email@martijnbrekelmans.com
 
@@ -108,7 +108,7 @@ Light table is one of the first non-experimental usable editors that tried to in
 
 ## [Ken Perlin's student lecture](http://livestream.com/cdmschool/events/3167937/videos/55979749)
 
-The first half of this talk is mainly about computer graphics and Ken's inspirations. The second half of this talk, is about the tool used in this talk. It's a tool inspired by blackboards and childrens' shows about magic pens. Drawings made in this paint-like program will turn to life. They can be manipulated in real-time, viewed, rotated, moved. Examples of drawings embedded in this editor are movies, diagrams, 3d objects, vases, birds, graphs, butterflies that follow any light source, sound, shaders and much much much more. It is intended to go open source at some point in the future.
+The first half of this talk is mainly about what inspired Ken Perlin to get into computer graphics. The second half of this talk is about the tool used in this talk. It's a tool inspired by blackboards and childrens' shows. Drawings made in this program will turn to life. Examples of drawings embedded in this editor are movies, diagrams, 3d objects, vases, birds, graphs, butterflies that follow any light source, sound, shaders and much much much more. It is intended to go open source at some point in the future.
 
 ## People, pages and organizations to watch
 
@@ -185,6 +185,10 @@ Essays:
 ## Older related projects
 
 It's paradoxical and ever so ironic how these old projects are a great source of inspiration for editors and interfaces right now. These projects are better implementations of software used today, only this software is at least twice as old as I am.
+
+#### [The mother of all demos, 1986](https://www.youtube.com/watch?v=yJDv-zdhzMY)
+
+Anyone reading this has probably already seen the mother of all demos. The mother of all demos is a presentation of Douglas Engelbart's vision turned to reality. It showcases multiple representations for a single type of data. The mother of all demos was way ahead of its time, and still ahead of today in some areas.
 
 #### [MIT's Genesys, 1970](https://www.youtube.com/watch?v=GYIPKLxoTcQ).
 
