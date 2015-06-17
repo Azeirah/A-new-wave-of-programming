@@ -43,12 +43,14 @@ An article taking a different look at programming interfaces, discussing the usa
 
 > The more I think about 'program models,' the more our treatment of program source code seems bizarre. Why aren't the models of computer programs prior to their source code representations? Shouldn't program models be the basis for generating program views? Shouldn't we store models on disk and build views when using our programming tools? Shouldn't we pass models around the internet instead of views?
 
+*On a side note, for people interested in building multiple views on top of code, I made a JavaScript library that synchronizes objects over multiple webpages, an array in your source code can be visualized as an unsorted list on your phone! [check it out here](https://github.com/Azeirah/Object.remote.git)*
+
 -- Author: **Weston Beecroft**
 # Demos
 
 ## [Conspire](http://blog.duangle.com/2015/01/conspire-programming-environment-for.html)
 
-Conspire is an editor developed for an incredibly ambitious game by duangle game studios. Conspire is deceivingly simple and best defines the concept of "graphical macros". Similar in ideology and usability as Moonchild. Conspire, unlike most of the other editors shown here is based on a lisp,
+Conspire is an editor developed for an incredibly ambitious game by duangle game studios. Conspire is deceivingly simple and best defines the concept of "graphical macros". Similar in ideology and usability as Moonchild. Conspire, unlike most of the other editors shown here is based on a lisp
 
 ![Conspire](images/conspire.png)
 
@@ -56,11 +58,15 @@ Conspire is an editor developed for an incredibly ambitious game by duangle game
 
 ## [Moonchild](https://github.com/cdglabs/moonchild.git)
 
-Moonchild is an experimental editor which is able to replace parts of your source code with alternative graphical representations. A sliding number widget, rendering markdown in your source code, write-time unit testing and more!
+Moonchild is an experimental editor which is able to replace parts of your source code with alternative graphical representations. A sliding number widget, rendering markdown in your source code, unit tests that run while you're writing functions, and more!
 
 ###### you can check out [my fork of Moonchild](https://github.com/azeirah/moonchild.git), which contains a live editing environment in the `live` branch. If you're interested in using this, you can contact me via email@martijnbrekelmans.com
 
 > Moonchild brings source code to life. It's a toolkit for experimenting with new kinds of programming interfaces. It's based on CodeMirror, a web-based text editor. Moonchild adds a framework which makes it easy to create plugins which modify and extend the source code presentation.
+
+[Demo video here](https://vimeo.com/106498564)
+
+[![Moonchild](images/Moonchild.png)](https://vimeo.com/106498564)
 
 -- Author: **Patrick Dubroy**, [cdglabs](https://github.com/cdglabs)
 
@@ -77,16 +83,6 @@ Vogo adds a direct manipulation user interface to Turtle Graphics. This takes on
 >  Recursive Drawing is an exploration of user interface ideas towards the development of a spatially-oriented programming environment.
 
 -- Author: [Toby Schachman](http://tobyschachman.com)
-
-## [Object.remote](https://github.com/azeirah/Object.remote.git)
-
-Object.remote is a JavaScript framework that synchronizes any objects between multiple web pages. This can be used to build custom controls and user interfaces around arbitrary objects on any device.
-
-An example interface built on top of Object.remote is included inside the repository. This interface allows you to view and edit objects on another web page at run-time.
-
-This repository is my own. If you've got any feedback, ideas or want to use it yourself, you can contact me at email@martijnbrekelmans.com
-
--- Author: Martijn Brekelmans
 
 ## [Shadershop](http://tobyschachman.com/Shadershop/)
 
@@ -186,7 +182,7 @@ Essays:
 
 It's paradoxical and ever so ironic how these old projects are a great source of inspiration for editors and interfaces right now. These projects are better implementations of software used today, only this software is at least twice as old as I am.
 
-#### [The mother of all demos, 1986](https://www.youtube.com/watch?v=yJDv-zdhzMY)
+#### [The mother of all demos, 1968](https://www.youtube.com/watch?v=yJDv-zdhzMY)
 
 Anyone reading this has probably already seen the mother of all demos. The mother of all demos is a presentation of Douglas Engelbart's vision turned to reality. It showcases multiple representations for a single type of data. The mother of all demos was way ahead of its time, and still ahead of today in some areas.
 
