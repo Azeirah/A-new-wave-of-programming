@@ -70,6 +70,14 @@ Moonchild is an experimental editor which is able to replace parts of your sourc
 
 -- Author: **Patrick Dubroy**, [cdglabs](https://github.com/cdglabs)
 
+## [Jetbrains MPS](https://www.jetbrains.com/mps/)
+
+Jetbrains' MPS is different compared from others, because it's the only one in this list that has a stable release backed by a company! It is by far the most stable editor included in this list.
+
+> With MPS you can design your own extensible DSLs and start using them right away to build end-user applications. Unique technology of projectional editing allows to overcome the limits of language parsers, and build much richer DSL editors, such as ones with tables and diagrams. Along with the editors, you can write comprehensive generators from your DSL to multiple target languages, be it another MPS DSL, or any of the "base" languages such as Java, C, XML, and other.
+
+-- Authors, developers at [Jetbrains](https://www.jetbrains.com)
+
 ## [Vogo](http://mgrf.de/vogo/)
 
 > An experimental direct manipulation interface for Turtle Graphics.
