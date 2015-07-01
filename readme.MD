@@ -74,7 +74,13 @@ Moonchild is an experimental editor which is able to replace parts of your sourc
 
 Jetbrains' MPS is different compared from others, because it's the only one in this list that has a stable release backed by a company! It is by far the most stable editor included in this list.
 
+MPS differs with most other editors in this list because it's not targeting the presentation layer, it's targeting the language itself. Languages defined using Jetbrains' MPS are not textual languages, they're editable structures. This has some advantages, such as not having to deal with a parser at all and of course non-textual constructs in a language. Unfortunately, it also comes with some disadvantages. MPS Java is not the same as real Java, by extending the language itself, you're throwing away backwards compatibility with the original language, you could see MPS as a programming language of its own. Java is merely a target language.
+
+That said, MPS has many original ideas in editing and presentation of program source files. It has by far the most documentation, and there are even plenty of videos on MPS available on their own website, and YouTube. Because these videos are plentiful, instead of linking to some of them, I'll invite you to visit [their website](https://www.jetbrains.com/mps/) to see for yourself.
+
 > With MPS you can design your own extensible DSLs and start using them right away to build end-user applications. Unique technology of projectional editing allows to overcome the limits of language parsers, and build much richer DSL editors, such as ones with tables and diagrams. Along with the editors, you can write comprehensive generators from your DSL to multiple target languages, be it another MPS DSL, or any of the "base" languages such as Java, C, XML, and other.
+
+Be wary however,
 
 -- Authors, developers at [Jetbrains](https://www.jetbrains.com)
 
