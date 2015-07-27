@@ -130,7 +130,7 @@ Terry Davis is a dedicated software developer who has spent the last 12 years bu
 
 Because templeOS has been built from scratch, Terry is not restrained by any constraints imposed by any other operating system out there. It's built around exploration and experimentation.
 
-Terry Davis has a [blog](http://terry.davis.usesthis.com/) as well as a [youtube account](https://www.youtube.com/channel/UCCRt2MnEf78kj7aWylAskAQ/videos) on which he frequently posts videos about his operating system. [TempleOS's official site](http://www.templeos.org/)
+Terry Davis has a [youtube account](https://www.youtube.com/channel/UCCRt2MnEf78kj7aWylAskAQ/videos) on which he frequently posts videos about his operating system. [Here is TempleOS's official site](http://www.templeos.org/)
 
 To get started on his work, I recommend checking out this introductory article on TempleOS first.
 
